@@ -1,6 +1,3 @@
-# 593-milestone-1
-Milestone 1 (Fall 2025)
-
 # California Education Funding Equity Analysis
 
 This repository contains our analysis for **A2D2 Milestone Project**, examining per-pupil spending across California public school districts.  
