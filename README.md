@@ -1,6 +1,6 @@
 # California Education Funding Equity Analysis
 
-This repository contains our analysis for **A2D2 Milestone Project**, examining per-pupil spending across California public school districts.  
+This repository contains our analysis for **MADS Milestone 1 Project**, examining per-pupil spending across California public school districts.  
 We explored how **demographic composition** (i.e., race, ethnicity, & student status) and **geographic context** affect funding patterns under the state's Local Control Funding Formula (LCFF, 2013).
 
 ---
